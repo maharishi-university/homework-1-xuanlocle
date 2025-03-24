@@ -30,3 +30,13 @@
 * Notification: Send email alerts when spending approaches the limit.
 * Take a screenshot of the budget alert setup.
 ## Submit the above screenshots.
+
+![MFA Setup confirmation](/img/iam-mfa.png)
+
+![User create confirmation](/img/iam-create-user.png)
+
+![User list confirmation](/img/iam-user-list.png)
+
+![Billing Alert](/img/billing-alert.png)
+
+![Budget Alert](/img/budget-alert.png)
